@@ -1,4 +1,4 @@
-# 
+# Automatic OBS Studio workflow for Mac OS | New OBS Studio workflow for PC Windows. Featuring pre-composition and transition-effects — optimized for maximum performance on every platform.
 
 
 
